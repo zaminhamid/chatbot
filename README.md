@@ -22,9 +22,7 @@ Response Display: The response from the backend (file content, word count, and a
 Styling: The frontend is styled using CSS to improve visual presentation.
 Documentation:
 
-README: A README file should be created to provide instructions on how to run the application and an overview of its functionalities.
-Code Comments: Add comments in the code to explain key functionalities, especially in the backend Python code.
-Dependencies:
+
 
 Backend Dependencies: FastAPI, Pydantic, GridFS, pymongo, textract, pandas, PyPDF2, transformers, torch.
 Frontend Dependencies: React, Axios.
