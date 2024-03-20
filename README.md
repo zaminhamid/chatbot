@@ -31,5 +31,5 @@ Frontend Dependencies: React, Axios.
 
 NOTE: you might need to install transformers and pytorch if you are running it on your local machine
 Python Version: The backend code is written in Python 3.x.
-Node.js Version: The frontend code requires Node.js to run React.
+ The frontend code requires Node.js to run React.
 Package Managers: Python uses pip for package management, while Node.js uses npm or yarn.
