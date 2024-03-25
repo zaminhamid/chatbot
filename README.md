@@ -47,6 +47,17 @@ Frontend:
 npm start
 
 
+Contributions are welcome! To contribute to this project, follow these steps:
+
+Fork the repository.
+Create a new branch (git checkout -b feature/new-feature).
+Make your changes.
+Commit your changes (git commit -am 'Add new feature').
+Push to the branch (git push origin feature/new-feature).
+Create a new Pull Request.
+Please ensure that your code adheres to the PEP 8 style guide and includes appropriate documentation.
+
+
 
 
 
