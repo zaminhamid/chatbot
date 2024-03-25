@@ -27,6 +27,27 @@ Documentation:
 Backend Dependencies: FastAPI, Pydantic, GridFS, pymongo, textract, pandas, PyPDF2, transformers, torch.
 Frontend Dependencies: React, Axios.
 
+Installation and Setup:
+
+Backend:
+activate conda environment :
+
+conda activate chatbot
+
+Install additional dependencies from the requirements.txt file:
+
+pip install -r requirements.txt
+
+Run FAST API SERVER:
+
+uvicorn main:app --reload
+
+
+Frontend:
+npm start
+
+
+
 
 
 NOTE: you might need to install transformers and pytorch if you are running it on your local machine
